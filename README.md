@@ -1,16 +1,29 @@
-### Hi there 👋
+## Alex G Rice
 
-<!--
-**guidorice/guidorice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer, focused on geospatial data science,
+geographic information systems (GIS), and machine learning.
 
-Here are some ideas to get you started:
+### Currently Studying 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Tensorflow and deep learning without a PhD series by @martin_gorner.](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) (Python)
+* [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/) (Julia)
+
+### Employer 👨🏽‍💻
+
+[Radiant Earth Foundation](https://radiant.earth)
+
+### Favorite Programming Languages 😻
+
+* [Python](https://python.org)
+* [TypeScript](https://www.typescriptlang.org)
+* [Julia](https://julialang.org)
+* [Zig](https://ziglang.org)
+
+### Location 🌎
+
+ [Grand Junction, Colorado USA](https://www.google.com/maps/@39.1134186,-108.6437289,9.77z)
+
+### Contact 👋🏽
+
+* Emails: [alex@radiant.earth](mailto:alex@radiant.earth), [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [rice.guido@gmail.com](mailto:rice.guido@gmail.com)
+* [LinkedIn @guidorice](https://www.linkedin.com/in/guidorice/)
