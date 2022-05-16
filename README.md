@@ -3,11 +3,6 @@
 Full-stack developer, focused on geospatial data science,
 geographic information systems (GIS), and machine learning.
 
-### Currently Studying 📚
-
-* [Tensorflow and deep learning without a PhD series by @martin_gorner.](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) (Python)
-* [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/) (Julia)
-
 ### Employer 👨🏽‍💻
 
 [Radiant Earth Foundation](https://radiant.earth)
@@ -16,7 +11,6 @@ geographic information systems (GIS), and machine learning.
 
 * [Python](https://python.org)
 * [TypeScript](https://www.typescriptlang.org)
-* [Julia](https://julialang.org)
 * [Zig](https://ziglang.org)
 
 ### Location 🌎
