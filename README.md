@@ -15,7 +15,7 @@ geographic information systems (GIS), and machine learning.
 
 ### Location 🌎
 
- [Grand Junction, Colorado USA](https://www.google.com/maps/@39.1134186,-108.6437289,9.77z)
+ [Grand Junction, Colorado USA](https://www.openstreetmap.org/#map=8/38.974/-108.680)
 
 ### Contact 👋🏽
 
