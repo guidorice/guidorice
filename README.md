@@ -1,7 +1,6 @@
 ## Alex G Rice
 
-Full-stack developer, focused on geospatial data science,
-geographic information systems (GIS), and machine learning.
+Software developer with interest in geographic information systems (GIS), remote sensing, data science, and machine learning.
 
 ### :computer: Employer
 
