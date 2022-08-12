@@ -1,5 +1,3 @@
-## Alex G Rice
-
 Software developer with interest in geographic information systems (GIS), remote sensing, data science, and machine learning.
 
 ### :computer: Employer
