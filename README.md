@@ -16,5 +16,5 @@ Software developer with interest in geographic information systems (GIS), remote
 
 ### :wave: Contact
 
-* Emails: [alex@radiant.earth](mailto:alex@radiant.earth), [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [rice.guido@gmail.com](mailto:rice.guido@gmail.com)
+* Emails: [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [rice.guido@gmail.com](mailto:rice.guido@gmail.com)
 * [LinkedIn @guidorice](https://www.linkedin.com/in/guidorice/)
