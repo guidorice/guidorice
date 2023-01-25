@@ -2,7 +2,7 @@ Software developer with interest in geographic information systems (GIS), remote
 
 ### :computer: Employer
 
-[Regrow](https://regrow.ag)
+[Regrow Agriculture](https://regrow.ag)
 
 ### :zap: Favorite Programming Languages
 
