@@ -1,4 +1,4 @@
-Software developer with interest in geographic information systems (GIS), remote sensing, data science, and machine learning.
+Geospatial Software Developer: geographic information systems (GIS), remote sensing, data science, and machine learning.
 
 ### :computer: Employer
 
@@ -12,7 +12,7 @@ Software developer with interest in geographic information systems (GIS), remote
 
 ### :earth_americas: Location 
 
- [Grand Junction, Colorado USA](https://www.openstreetmap.org/#map=8/38.974/-108.680)
+ [Fruita, Colorado USA](https://www.openstreetmap.org/#map=8/38.974/-108.680)
 
 ### :wave: Contact
 
