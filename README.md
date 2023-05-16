@@ -6,7 +6,7 @@ Geospatial Software Developer: geographic information systems (GIS), remote sens
 
 ### :zap: Favorite Programming Languages
 
-* ~~[Python](https://python.org)~~ 🔥[Mojo](https://www.modular.com/mojo)
+* ~~[Python](https://python.org)~~ [Mojo](https://www.modular.com/mojo)
 * [TypeScript](https://www.typescriptlang.org)
 * [Zig](https://ziglang.org)
 
