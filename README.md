@@ -8,7 +8,6 @@ Geospatial Software Developer: geographic information systems (GIS), remote sens
 
 * [Python](https://python.org) / [Mojo](https://www.modular.com/mojo)
 * [TypeScript](https://www.typescriptlang.org)
-* [Zig](https://ziglang.org)
 
 ### :earth_americas: Location 
 
