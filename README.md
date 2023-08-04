@@ -17,3 +17,5 @@ Geospatial Software Developer: geographic information systems (GIS), remote sens
 
 * Emails: [alex.rice@regrow.ag](mailto:alex.rice@regrow.ag), [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [rice.guido@gmail.com](mailto:rice.guido@gmail.com)
 * [LinkedIn @guidorice](https://www.linkedin.com/in/guidorice/)
+
+update: 2023-08-04
