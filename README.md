@@ -4,9 +4,9 @@ Geospatial Software Developer: geographic information systems (GIS), remote sens
 
 [Regrow Agriculture](https://regrow.ag)
 
-### :zap: Favorite Programming Languages
+### Favorite Programming Languages
 
-* [Python](https://python.org) / [Mojo](https://www.modular.com/mojo)
+* [Python](https://python.org) :snake: / [Mojo](https://www.modular.com/mojo) :fire: 
 * [TypeScript](https://www.typescriptlang.org)
 
 ### :earth_americas: Location 
@@ -18,4 +18,4 @@ Geospatial Software Developer: geographic information systems (GIS), remote sens
 * Emails: [alex.rice@regrow.ag](mailto:alex.rice@regrow.ag), [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [rice.guido@gmail.com](mailto:rice.guido@gmail.com)
 * [LinkedIn @guidorice](https://www.linkedin.com/in/guidorice/)
 
-update: 2023-08-04
+update: 2024-01-05
