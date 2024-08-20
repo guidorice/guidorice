@@ -1,4 +1,4 @@
-Geospatial Software Developer: geographic information systems (GIS), remote sensing, data science, and machine learning.
+Versatile software developer with a focus on earth observation, agricultural, environmental and climate applications 
 
 ### Favorite Programming Languages
 
