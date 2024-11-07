@@ -11,6 +11,6 @@ https://ricegeo.dev
 
 ### :wave: Email
 
-* Emails: [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [rice.guido@gmail.com](mailto:rice.guido@gmail.com)
+* Emails: [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [rice.guido@gmail.com](mailto:rice.guido@gmail.com), [arice@xentity.com](mailto:arice@xentity.com)
 
-update: 2024-09-18
+update: 2024-11-07
