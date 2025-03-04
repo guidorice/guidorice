@@ -4,10 +4,9 @@ Versatile software developer with a focus on earth observation, agricultural, en
 
 https://ricegeo.dev
 
-
 ### :earth_americas: Location 
 
- [Fruita, Colorado USA](https://www.openstreetmap.org/#map=8/38.974/-108.680)
+ [Fruita, Colorado USA](https://www.openstreetmap.org/#map=9/39.100/-108.581)
 
 ### :wave: Email
 
