@@ -10,6 +10,6 @@ https://ricegeo.dev
 
 ### :wave: Email
 
-* Emails: [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [rice.guido@gmail.com](mailto:rice.guido@gmail.com), [alex@aerialplot.com](mailto:alex@aerialplot.com)
+* Emails: [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [alex.guido.rice@gmail.com](mailto:alex.guido.rice@gmail.com), [alex@aerialplot.com](mailto:alex@aerialplot.com)
 
 update: 2025-09-11
