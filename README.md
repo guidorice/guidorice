@@ -12,4 +12,4 @@ https://ricegeo.dev
 
 * Emails: [alex@ricegeo.dev](mailto:alex@ricegeo.dev), [alex.guido.rice@gmail.com](mailto:alex.guido.rice@gmail.com), [alex@aerialplot.com](mailto:alex@aerialplot.com)
 
-update: 2025-09-11
+update: 2026-04-07
